@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const redocx = require('redocx-express');
+const redocx = require('../dist/index.js');
 
 const app = express();
 
