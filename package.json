@@ -1,6 +1,6 @@
 {
   "name": "redocx-express",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware for serving ReDoc API documentation",
   "license": "MIT",
   "author": "Rohit Soni",
